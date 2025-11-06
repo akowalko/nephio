@@ -1,3 +1,10 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: kepler-values
+  namespace: kepler
+data:
+  values.yaml: |
 ---
 # -- Replaces the name of the chart in the Chart.yaml file
 nameOverride: ""
