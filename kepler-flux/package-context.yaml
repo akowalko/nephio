@@ -1,0 +1,7 @@
+apiVersion: context.nephio.org/v1alpha1
+kind: PackageContext
+metadata:
+  name: kepler-flux
+spec:
+  labels:
+    app: kepler
