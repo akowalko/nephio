@@ -5,4 +5,4 @@ metadata:
   namespace: kepler
 spec:
   interval: 10m
-  url: https://sustainable-computing-io.github.io/kepler-helm-chart
+  url: https://github.com/sustainable-computing-io/kepler-helm-chart.git
